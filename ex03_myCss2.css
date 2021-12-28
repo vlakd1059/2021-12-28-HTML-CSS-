@@ -1,0 +1,31 @@
+.layout {
+  width: 500px;
+  height: 500px;
+  color: white;
+}
+.header {
+  background-color: #ea4335;
+  height: 10%;
+}
+.nav {
+  background-color: #ff5300;
+  height: 10%;
+}
+.side {
+  background-color: #4385f4;
+  width: 30%;
+  height: 60%;
+  float: left;
+}
+.section1 {
+  background-color: #34a853;
+  height: 30%;
+}
+.section2 {
+  background-color: #fbbc05;
+  height: 30%;
+}
+.footer {
+  background-color: #8a8d92;
+  height: 15%;
+}
